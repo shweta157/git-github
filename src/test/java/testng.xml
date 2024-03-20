@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Entrata Test automation Suite" >
+  <test name="Entrata Test" >
+	  
+    <classes>
+       <class name="com.test.EntrataTest" />
+    </classes>
+    
+    
+  </test>
+</suite>
